@@ -1,0 +1,19 @@
+.Btn {
+  padding: 5px 10px;
+  margin: 0px 2px;
+  color: #fff;
+  border-radius: 10px;
+  border: none;
+}
+
+.readBtn {
+  background-color: blue;
+}
+
+.editBtn {
+  background-color: green;
+}
+
+.deleteBtn {
+  background-color: red;
+}
